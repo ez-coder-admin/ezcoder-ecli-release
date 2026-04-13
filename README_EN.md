@@ -33,7 +33,3 @@ Each release contains the following files:
 | `ezcoder-ecli_*_x64-setup.exe` | Windows x64 NSIS installer |
 | `ezcoder-ecli_*_x64-setup.exe.sig` | Installer signature file (for auto-update verification) |
 | `latest.json` | Tauri updater manifest (version, download URL, signature) |
-
-## License
-
-[MIT License](https://github.com/ez-coder-admin/ezcoder-ecli/blob/main/LICENSE)

@@ -33,7 +33,3 @@ ezcoder-ecli 是一个基于 Tauri 的桌面应用，通过 MCP（Model Context 
 | `ezcoder-ecli_*_x64-setup.exe` | Windows x64 NSIS 安装包 |
 | `ezcoder-ecli_*_x64-setup.exe.sig` | 安装包签名文件（用于自动更新验证） |
 | `latest.json` | Tauri updater manifest（版本号、下载地址、签名） |
-
-## 许可证
-
-[MIT License](https://github.com/ez-coder-admin/ezcoder-ecli/blob/main/LICENSE)
