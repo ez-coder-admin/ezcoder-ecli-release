@@ -14,7 +14,7 @@
 
 | Pain Point | ezcoder-ecli Solution |
 |------------|----------------------|
-| Claude Opus 4.7 / Claude Sonnet 4.6 / GPT-5.4 / GPT-5.3-Codex and more | Full-power, native models |
+| Claude Opus 4.6 / Claude Sonnet 4.6 / GPT-5.4 / GPT-5.3-Codex and more | Full-power, native models |
 | No proxies, no third-party middlemen | Model fidelity with more accurate model context |
 | Reduce wasted conversation rounds through precise context, significantly improving token (quota) usage |
 | AI chat squeezed into IDE sidebar — small and clunky | Standalone desktop window — pin on top or go fullscreen |
