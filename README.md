@@ -86,10 +86,6 @@
 | **内置终端** | **无需配置**，打开即用 |
 | VS Code Copilot | 项目级（`.vscode/mcp.json`）/ 全局级（`settings.json`） |
 | Copilot CLI | 项目级（`.mcp.json`）/ 全局级（`~/.copilot/mcp-config.json`） |
-| JetBrains + Copilot | 全局配置（`mcp.json`） |
-| Claude Desktop | 全局配置（`claude_desktop_config.json`） |
-| Claude Code CLI | 项目级（`.mcp.json`）/ 全局级（`~/.claude.json`） |
-| Cursor | 项目级（`.cursor/mcp.json`）/ 全局设置 |
 | 其他 MCP 客户端 | 帮助页面提供通用参数，手动配置即可 |
 
 > 💡 内置终端无需配置，打开即用。外部客户端的配置路径均根据当前运行环境自动生成，首次配置不到 1 分钟。

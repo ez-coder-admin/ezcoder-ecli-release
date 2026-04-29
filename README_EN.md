@@ -86,10 +86,6 @@ The app includes one-click configuration for the following clients:
 | **Built-in Terminal** | **No setup needed** — ready to use |
 | VS Code Copilot | Project-level (`.vscode/mcp.json`) / Global (`settings.json`) |
 | Copilot CLI | Project-level (`.mcp.json`) / Global (`~/.copilot/mcp-config.json`) |
-| JetBrains + Copilot | Global config (`mcp.json`) |
-| Claude Desktop | Global config (`claude_desktop_config.json`) |
-| Claude Code CLI | Project-level (`.mcp.json`) / Global (`~/.claude.json`) |
-| Cursor | Project-level (`.cursor/mcp.json`) / Global settings |
 | Other MCP Clients | Help page provides generic parameters for manual setup |
 
 > 💡 The built-in terminal requires no configuration — ready to use out of the box. External client config paths are auto-generated based on your environment; first-time setup takes less than 1 minute.
